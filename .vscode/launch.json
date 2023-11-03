@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/christopher/Desktop/DEV/Repos/CS50",
-      "program": "c:/Users/christopher/Desktop/DEV/Repos/CS50/build/Debug/outDebug",
+      "cwd": "c:/Users/christopher/Desktop/DEV/Repos/CS50/Lesson2",
+      "program": "c:/Users/christopher/Desktop/DEV/Repos/CS50/Lesson2/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
